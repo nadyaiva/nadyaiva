@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nadya Ivanova
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning HTML & CSS, JS, Python
+- 💞️ I’m looking to collaborate on new projects 
+- 📫 Reach me in Telegram @nadyaivanova
